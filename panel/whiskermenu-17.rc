@@ -1,5 +1,5 @@
 favorites=exo-terminal-emulator.desktop,exo-file-manager.desktop,exo-mail-reader.desktop,exo-web-browser.desktop
-recent=exo-terminal-emulator.desktop,exo-web-browser.desktop,globaltime.desktop,exo-file-manager.desktop,pgadmin3.desktop,xfce-settings-manager.desktop,xfce4-settings-editor.desktop
+recent=panel-preferences.desktop,exo-mail-reader.desktop,exo-terminal-emulator.desktop,exo-web-browser.desktop,globaltime.desktop,exo-file-manager.desktop,pgadmin3.desktop,xfce-settings-manager.desktop,xfce4-settings-editor.desktop
 button-title=Zarco's Linux
 button-icon=/home/codus/Zarco/images/Z-white.png
 button-single-row=true
