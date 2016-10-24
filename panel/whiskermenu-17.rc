@@ -1,5 +1,5 @@
 favorites=exo-web-browser.desktop,exo-terminal-emulator.desktop,exo-mail-reader.desktop,exo-file-manager.desktop,emacs24.desktop,vim.desktop,debian-uxterm.desktop
-recent=panel-preferences.desktop,xfce-workspaces-settings.desktop,atom.desktop,xfce-wmtweaks-settings.desktop,xfce-wm-settings.desktop,cheese.desktop,emacs24.desktop,deja-dup-preferences.desktop,vim.desktop,update-manager.desktop
+recent=xfce-wmtweaks-settings.desktop,exo-terminal-emulator.desktop,panel-preferences.desktop,hipchat.desktop,hipchat4.desktop,xfce-keyboard-settings.desktop,ubuntu-software-center.desktop,software-properties-gtk.desktop,xfce-workspaces-settings.desktop,atom.desktop
 button-title=Zarco's Linux
 button-icon=/home/codus/.config/xfce4/icons/Z.png
 button-single-row=true
